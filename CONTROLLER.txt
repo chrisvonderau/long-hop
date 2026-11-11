@@ -1,0 +1,47 @@
+LONG HOP: RED CENTRE RUN
+How to play
+
+Open index.html or artifacts/LongHop.html in a browser. It runs offline. No account, no network.
+
+You are Mara, a red kangaroo, crossing the centre. Lanes run across the screen. Hop up to go forward. The far side of a crossing is the goal. You have three lives. A red fruit gives one back if you are short. Trucks, cattle, fire, water, crocs, floods, crumbling rock and empty gaps do not.
+
+SHORT HOP
+Tap a direction. One cell. On a keyboard that is an arrow or WASD. On a controller it is a flick of the left stick, the d-pad, or A. On a touch screen it is the HOP button, with direction from the stick. Hold a direction to keep hopping. Shift, LT, or HOLD braces: slower, no repeat, a tighter hit box, and a snap onto narrow rock.
+
+CHARGED LEAP
+This is the skill. Hold Space, or the right trigger, or LEAP, then release.
+On a controller the trigger pressure is the distance. A light squeeze is a short leap. A full squeeze is the longest leap that hopper can make.
+On a keyboard or touch screen, hold time stands in for pressure.
+Longer leaps over nastier ground pay more, in Australian dollars. The pips under the road show how far the next leap will go. On Easy and Normal the landing mark is gold when it looks clear and red when it does not. Hard shows the mark without the colour hint.
+A leap only cares about where you land. You can clear a gap, a road train, or a billabong if the landing itself is safe. Landing in the traffic, in the water, on a croc, or in the crack is a life.
+
+OTHER BUTTONS
+X or E uses the power you are holding. You can carry two.
+Speed, super jump, shield, and slow time appear as tokens on the banks.
+Y or Tab opens the route card. The hazards do not stop while you read it.
+Menu or Esc pauses. B or Esc steps back through menus.
+M mutes.
+
+CONTROLLER
+The browser only notices a pad after you click or tap the page and press a button. Until then the game says "Press A on the controller". A small PAD mark appears once it is live.
+Standard mapping: left stick and d-pad hop, A hops, RT charges the leap, LT braces, X uses a power, Y is the route card, Menu pauses, B goes back.
+Rumble, when the pad has a dual-rumble actuator: a tick on landing, a rising buzz when something heavy is close, a heartbeat on your last life, a thump on a long leap, a pulse when a bonus pays. If the pad cannot rumble, the game keeps going.
+
+TOUCH
+In Settings, Touch can be Auto, On, or Off. Auto shows the controls on a coarse pointer, or after you touch the screen.
+Stick on the left. HOP, LEAP (hold), PWR, and HOLD on the right.
+
+TWO PLAYERS AND RIVALS
+Not in this muster. The rivals screen names the plan: a shared pad would give player one the left stick, LB to hop and LT to charge, and player two the right stick, RB to hop and RT to charge. A second keyboard is reserved on I J K L, with U to hop and O to charge. Four rival personalities are already named (Cautious Cal, Reckless Riff, Patient Pat, Near-Miss Nell), plus an adaptive mode that would learn the lanes where you die. They do not race you yet.
+
+SCORING
+Forward progress pays A$. Riskier lanes pay more. Leap length multiplies the take. A near miss pays extra. A short chain of clean crossings builds FLOW. Beating the eight-minute par on a crossing pays a bonus. The shed pays three quarters. The story pays in full. Scores stay on this machine.
+
+LEVELS
+Eight crossings, then an endless muster once you have cleared them. Difficulty is Easy, Normal, or Hard. Broken Gorge and Ghost Gum Midnight are the steep ones. A careful crossing is built to run about eight minutes. Rushing is faster. Dying puts you back on the last safe bank.
+
+THE COLD EDGE
+On one bank in Spinifex Station, and again in the salt, the left edge is the wrong colour. Hop into it.
+
+SAVES
+Progress, settings, unlocks, and local scores are stored in the browser. Coats, hoppers (Mara, Nim the wallaby, Gus the emu, Sid the sloth), and arenas unlock as you earn them. Equip them from Unlockables.
